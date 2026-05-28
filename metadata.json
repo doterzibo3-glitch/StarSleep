@@ -1,0 +1,6 @@
+{
+  "name": "Звездный Сон",
+  "description": "Таймер сна для аудиокниг и YouTube с отключением экрана.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
